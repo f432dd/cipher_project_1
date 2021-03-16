@@ -1,0 +1,13 @@
+C:\Users\1\Desktop\cipher_project\cipher\cipher\bin\Debug\netcoreapp3.1\cipher.exe
+C:\Users\1\Desktop\cipher_project\cipher\cipher\bin\Debug\netcoreapp3.1\cipher.deps.json
+C:\Users\1\Desktop\cipher_project\cipher\cipher\bin\Debug\netcoreapp3.1\cipher.runtimeconfig.json
+C:\Users\1\Desktop\cipher_project\cipher\cipher\bin\Debug\netcoreapp3.1\cipher.runtimeconfig.dev.json
+C:\Users\1\Desktop\cipher_project\cipher\cipher\bin\Debug\netcoreapp3.1\cipher.dll
+C:\Users\1\Desktop\cipher_project\cipher\cipher\bin\Debug\netcoreapp3.1\cipher.pdb
+C:\Users\1\Desktop\cipher_project\cipher\cipher\obj\Debug\netcoreapp3.1\cipher.csprojAssemblyReference.cache
+C:\Users\1\Desktop\cipher_project\cipher\cipher\obj\Debug\netcoreapp3.1\cipher.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\cipher_project\cipher\cipher\obj\Debug\netcoreapp3.1\cipher.AssemblyInfo.cs
+C:\Users\1\Desktop\cipher_project\cipher\cipher\obj\Debug\netcoreapp3.1\cipher.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\cipher_project\cipher\cipher\obj\Debug\netcoreapp3.1\cipher.dll
+C:\Users\1\Desktop\cipher_project\cipher\cipher\obj\Debug\netcoreapp3.1\cipher.pdb
+C:\Users\1\Desktop\cipher_project\cipher\cipher\obj\Debug\netcoreapp3.1\cipher.genruntimeconfig.cache
